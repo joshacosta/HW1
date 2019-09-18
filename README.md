@@ -19,6 +19,7 @@ B:
 A: 
 A touch screen interface with feedback and properly ordered buttons is a good start for a solution. The screen size would be around the size of a typical tablet: 
 
+![alt text](https://github.com/joshacosta/HW1/blob/master/HW1.Acosta.gif)
 
 
 
