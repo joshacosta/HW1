@@ -1,10 +1,9 @@
 # HW1
-C:
 ![alt text](https://github.com/joshacosta/HW1/blob/master/ElevatorGif.gif)
 ![alt text](https://github.com/joshacosta/HW1/blob/master/IMG_6991.JPG)
 ![alt text](https://github.com/joshacosta/HW1/blob/master/IMG_6992.JPG)
 
-
+C:
 The faults with this elevator interface is rather obvious. Its order of the floors is not user-friendly; even more so, it’s very unfriendly to those are blind or have reduced sight. The order of the floors are not intuitive and make no sense. Rather than being 1,2,3 vertically ascending, they’re positioned in two cell rows ascending. The lowest row being one and two, and then 3 and four for the second row. It makes little sense in terms of a practical interface. This is not useful for those who are visually impaired. As well, there is no audible feedback for users. Meaning, if a blind person were to use this, they would not know whether they will be taken to the right floor. Although there is braille, it can still be tedious considering the order of the buttons. 
 
 
