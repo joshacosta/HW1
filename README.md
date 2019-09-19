@@ -2,8 +2,12 @@
 
 
 LINKS:
+
 github repo:
+
 demo: 
+
+presenation page (readme):
 
 
 ![alt text](https://github.com/joshacosta/HW1/blob/master/ElevatorGif.gif)
