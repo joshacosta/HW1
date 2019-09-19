@@ -5,7 +5,7 @@ LINKS:
 
 github repo:https://github.com/joshacosta/HW1/
 
-demo: https://joshacosta.github.io/HW1/demo.html
+demo: https://joshacosta.github.io/HW1/docs/demo.html
 
 presenation page (readme): https://joshacosta.github.io/HW1
 
