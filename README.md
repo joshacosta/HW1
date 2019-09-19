@@ -1,4 +1,11 @@
 # HW1
+
+
+LINKS:
+github repo:
+demo: 
+
+
 ![alt text](https://github.com/joshacosta/HW1/blob/master/ElevatorGif.gif)
 ![alt text](https://github.com/joshacosta/HW1/blob/master/IMG_6991.JPG)
 ![alt text](https://github.com/joshacosta/HW1/blob/master/IMG_6992.JPG)
