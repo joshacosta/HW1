@@ -9,7 +9,9 @@ The faults with this elevator interface is rather obvious. Its order of the floo
 
 B: 
  The typical sequence for using an elevator starts with clicking the up/down arrow outside the elevator. Eventually, the elevator doors will open. Then, the user will see the internal interface of the elevator. This interface includes an order of the floors, a close button, an open button, and buttons for the alarm and emergency. The main functionality the user looks for is simply selecting which floor to go to. However, depending on the interface, this can be made more difficult than it should be. For example, one mistake might be the order of the floors and buttons; similar to the example shown previously. Another mistake might be a lack of feedback, whether it be a light behind the buttons, or a quiet “Ding!”. Simply, a reorder of the buttons and added feedback can greatly improve the experience for the user. 
-
+ 
+ 
+![alt text]( https://github.com/joshacosta/HW1/blob/master/Drawing.jpeg)
 
 
 
