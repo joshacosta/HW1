@@ -3,11 +3,11 @@
 
 LINKS:
 
-github repo:
+github repo:https://github.com/joshacosta/HW1/
 
-demo: 
+demo: https://joshacosta.github.io/HW1/demo.html
 
-presenation page (readme):
+presenation page (readme): https://joshacosta.github.io/HW1
 
 
 ![alt text](https://github.com/joshacosta/HW1/blob/master/ElevatorGif.gif)
