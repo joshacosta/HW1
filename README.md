@@ -1,4 +1,5 @@
-# HW1 - Joshua Acosta
+# HW1
+# Joshua Acosta
 
 
 LINKS:
