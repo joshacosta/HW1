@@ -5,11 +5,12 @@ var direction = "up";
 
 $( document ).ready(function() {
    $(".indicatorNum").text(currentFloor);
-   $(".material-icons").text("arrow_upwr");
+   $(".material-icons").text("remove");
 });
 
 function select(floor){
-
+    $(".indicatorNum").text(floor);
+    $(".material-icons").text("arrow_upward");
     if(!queue.includes(floor) && currentFloor!=floor){ //if not in queue already
         $(".queue").text("");
 
